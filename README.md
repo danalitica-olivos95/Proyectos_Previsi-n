@@ -5,8 +5,8 @@ Proyecto que comprende el negocio con el área de Previsión Exequial, identific
 | Nombre del Campo                | Tipo de Dato | Descripción                                                           | Ejemplo               |
 | ------------------------------- | ------------ | ---------------------------------------------------------------------- | --------------------- |
 | `Contrato`                      | Texto        | Número o código único que identifica el contrato del afiliado,          | `C20230415`          |
-|                                 |              | Documento que contiene los términos y las condiciones del Plan Exequial,|                       | 
-|                                 |              | el cual debe ser firmado por el Representante Legal de la entidad contratante.                | 
+                                             | Documento que contiene los términos y las condiciones del Plan Exequial,|                        
+                                             | el cual debe ser firmado por el Representante Legal de la entidad contratante.|               
 | `Cedula`                        | Numérico     | Número de documento del contratante o titular                         | `1032456789`          |
 | `Nombre_Contratante`            | Texto        | Nombre completo del contratante                                       | `Carlos Pérez`        |
 | `Documento_Titular`             | Numérico     | Número de documento del titular del servicio                          | `9876543210`          |
