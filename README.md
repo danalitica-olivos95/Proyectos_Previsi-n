@@ -1,6 +1,6 @@
 # Proyectos_Prevision.
 Proyecto que comprende el negocio con el área de Previsión Exequial, identificando fuentes clave y necesidades analíticas prioritarias.
-# Diccioenario de datos.
+# Diccionario de datos.
 
 | Nombre del Campo                | Tipo de Dato | Descripción                                                                                                                                       | Ejemplo                                |
 | ------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
